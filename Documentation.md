@@ -3,7 +3,7 @@
 ## Project Overview
 
 Title : Zoo
-    Hackaton 1 "Zoo" will introduce our pets and animals that we like. It will have information like, names, type and some fun factoids.
+    Hackaton 1 "Zoo" will spotlight our pets and the animals we admire. Each entry will share details such as the type, name and some fun factoids to make the experience both informative and entertaining
 
 ## Team Members:
 
