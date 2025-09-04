@@ -15,7 +15,7 @@ Title : Zoo
 
 ### Name 1: Skyla G
 
--   Worked on her section about her cat, also guided the group on GIT clones and branches.
+-   Worked on her section about cats, also guided the group on GIT clones and branches.
 
 ### Name 2: Jinxz S
 
